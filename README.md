@@ -82,7 +82,7 @@ smart_care-main/
 ---
 
 ## 📸 Screenshots / Diagram  
-*![System Architecture](docs/diagram.png)
+*![System Architecture](image.png)
 
 
 ---

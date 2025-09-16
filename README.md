@@ -82,7 +82,8 @@ smart_care-main/
 ---
 
 ## 📸 Screenshots / Diagram  
-*(Add your system diagram or UI screenshots here for more impact)*  
+*![System Architecture](docs/diagram.png)
+
 
 ---
 

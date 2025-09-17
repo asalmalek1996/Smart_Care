@@ -99,10 +99,11 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ---
 
 ## 👨‍💻 Authors  
-- Dani Khalang-Asal Malekshahi-Elahe Fallahi 
-- ICT4SS Team  
+- Dani Khalang
+- Asal Malekshahi
+- Elahe Fallahi 
 
-**Supervisor**: Prof. Fabio Dovis  
+**Supervisor**: Prof. Edoardo Patti  
 
 
 

@@ -25,8 +25,8 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ✅ **Docker-ready** deployment 🐳  
 
 ---
-## 📂 Repository Structure (Updated)
-
+## 📂 Repository Structure
+```
 .
 ├─ control_unit/         # Threshold logic & actuation rules   
 ├─ cu_manager/           # Control-Unit orchestrator / manager     
@@ -40,7 +40,7 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ├─ docker-compose.yaml   # Multi-service setup   
 ├─ image.png             # Diagram/screenshot referenced in README   
 └─ requirements.txt      # Python dependencies   
-
+```
 
 ---
 

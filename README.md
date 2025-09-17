@@ -25,18 +25,22 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ✅ **Docker-ready** deployment 🐳  
 
 ---
+## 📂 Repository Structure (Updated)
 
-## 📂 Repository Structure  
-```
-smart_care-main/
-│── catalog/           # Catalog microservice
-│── device_connector/  # Sensor/device communication
-│── control_unit/      # Threshold logic & notifications
-│── telegram_bot/      # Bot service for alerts
-│── data/              # Data storage (SQLite/ThingSpeak)
-│── docs/              # Documentation and reports
-│── README.md
-```
+.
+├─ control_unit/         # Threshold logic & actuation rules
+├─ cu_manager/           # Control-Unit orchestrator / manager
+├─ device_connector/     # Sensor/device I/O (MQTT/REST adapters)
+├─ interface/            # UI or API interface layer
+├─ registry/             # Service/device registry (catalog)
+├─ reporter/             # Reports, exporters, scheduled jobs
+├─ telegram_bot/         # Telegram bot for alerts/commands
+├─ thingspeak/           # ThingSpeak integration module
+├─ README.md
+├─ docker-compose.yaml   # Multi-service setup
+├─ image.png             # Diagram/screenshot referenced in README
+└─ requirements.txt      # Python dependencies
+
 
 ---
 

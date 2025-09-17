@@ -28,18 +28,18 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ## 📂 Repository Structure (Updated)
 
 .
-├─ control_unit/         # Threshold logic & actuation rules
-├─ cu_manager/           # Control-Unit orchestrator / manager
-├─ device_connector/     # Sensor/device I/O (MQTT/REST adapters)
-├─ interface/            # UI or API interface layer
-├─ registry/             # Service/device registry (catalog)
-├─ reporter/             # Reports, exporters, scheduled jobs
-├─ telegram_bot/         # Telegram bot for alerts/commands
-├─ thingspeak/           # ThingSpeak integration module
-├─ README.md
-├─ docker-compose.yaml   # Multi-service setup
-├─ image.png             # Diagram/screenshot referenced in README
-└─ requirements.txt      # Python dependencies
+├─ control_unit/         # Threshold logic & actuation rules   
+├─ cu_manager/           # Control-Unit orchestrator / manager     
+├─ device_connector/     # Sensor/device I/O (MQTT/REST adapters)   
+├─ interface/            # UI or API interface layer   
+├─ registry/             # Service/device registry (catalog)   
+├─ reporter/             # Reports, exporters, scheduled jobs   
+├─ telegram_bot/         # Telegram bot for alerts/commands   
+├─ thingspeak/           # ThingSpeak integration module   
+├─ README.md   
+├─ docker-compose.yaml   # Multi-service setup   
+├─ image.png             # Diagram/screenshot referenced in README   
+└─ requirements.txt      # Python dependencies   
 
 
 ---

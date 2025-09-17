@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)  
 ![MQTT](https://img.shields.io/badge/Protocol-MQTT-orange)  
 ![Telegram](https://img.shields.io/badge/Notifications-Telegram-blue?logo=telegram)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
 
 ---
 

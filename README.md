@@ -55,7 +55,7 @@ The system integrates **sensors, cloud services, and a Telegram bot** for real-t
 ### 🚀 Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/smart_care.git
+   git clone https://github.com/<your-username>/smart_Plant-care.git
    cd smart_care
    ```
 2. Install dependencies:  
